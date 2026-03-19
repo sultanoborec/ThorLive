@@ -47,14 +47,14 @@
 ## Примеры
 
 глайдер
-[glaider](glailder.gif)
+![glaider](glailder.gif)
 
 
 случайное поле малого размера
-[small](small_random.gif)
+![small](small_random.gif)
 
 
 поле максимального размера
-[rand1](random1.gif)
+![rand1](random1.gif)
 
-[rand2](random2.gif)
+![rand2](random2.gif)
