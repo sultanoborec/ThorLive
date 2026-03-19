@@ -49,7 +49,7 @@
 - глайдер
 
 
-![glaider](glailder.gif)
+![glaider](glaider.gif)
 
 
 
